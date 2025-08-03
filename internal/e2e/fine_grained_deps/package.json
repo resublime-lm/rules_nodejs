@@ -5,7 +5,7 @@
     "typescript": "3.0.3"
   },
   "dependencies": {
-    "@gregmagolan/test-a": "0.0.4",
+    "@gregmagolan/test-a": "0.0.5",
     "@gregmagolan/test-b": "0.0.2",
     "@bazel/bazel": "0.19.0",
     "ajv": "5.5.2",
