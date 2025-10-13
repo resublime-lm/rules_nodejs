@@ -1,7 +1,7 @@
 {
   "description": "runtime dependencies for packages example",
   "dependencies": {
-    "jsesc": "~1.2.0",
+    "jsesc": "~1.3.0",
     "jasmine": "2.8.0"
   },
   "scripts": {
