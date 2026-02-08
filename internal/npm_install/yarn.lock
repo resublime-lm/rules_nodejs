@@ -2,6 +2,7 @@
 # yarn lockfile v1
 
 
-removeNPMAbsolutePaths@1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/removeNPMAbsolutePaths/-/removeNPMAbsolutePaths-1.0.4.tgz#cc657a861485fc55344717972ebf4c453d775d21"
+removeNPMAbsolutePaths@1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/removeNPMAbsolutePaths/-/removeNPMAbsolutePaths-1.0.6.tgz#ee16672d7227e331330fdf2a381f124c40fb037e"
+  integrity sha512-Bv3wK8LOnsN2wJBCYnXlSK7V3MHp/qRU5lkWtFQHTRHaweqaBATmZQMFkl57hqyXuaQrkxsXSWj0THUH2AFwVw==

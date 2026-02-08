@@ -2,6 +2,6 @@
     "description": "runtime dependencies for npm_install",
     "devDependencies": {},
     "dependencies": {
-        "removeNPMAbsolutePaths": "1.0.4"
+        "removeNPMAbsolutePaths": "1.0.6"
     }
 }
